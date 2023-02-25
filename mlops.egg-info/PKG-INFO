@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: mlops
+Version: 0.1
+Summary: Classify machine learning projects.
+Home-page: https://github.com/Pranshu-Bahadur/mlops-course.git
+Author: Pranshu Bahadur
+Author-email: pranshubahadur@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7

@@ -1,0 +1,14 @@
+README.md
+setup.py
+config/config.py
+config/main.py
+mlops/data.py
+mlops/evaluate.py
+mlops/main.py
+mlops/predict.py
+mlops/train.py
+mlops/utils.py
+mlops.egg-info/PKG-INFO
+mlops.egg-info/SOURCES.txt
+mlops.egg-info/dependency_links.txt
+mlops.egg-info/top_level.txt
