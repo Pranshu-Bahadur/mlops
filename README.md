@@ -2,12 +2,12 @@
 
 ## Virtual Environment:
 
-'''shell
+```shell
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install pip setuptools wheel
 python3 -m pip install -e .
-'''
+```
 
 ## Reference(s):
 
@@ -17,11 +17,12 @@ python3 -m pip install -e .
 
 
 ## Citations:
-'''
+
+```
 @article{madewithml,
     author       = {Goku Mohandas},
     title        = { Packaging - Made With ML },
     howpublished = {\url{https://madewithml.com/}},
     year         = {2022}
 }
-'''
+```
