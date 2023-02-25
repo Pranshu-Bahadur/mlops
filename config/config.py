@@ -10,6 +10,8 @@ DATA_DIR = Path(BASE_DIR, "data")
 # Create dirs
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
+
 # Assets
-PROJECTS_URL = "https://raw.githubusercontent.com/Pranshu-Bahadur/mlops/main/datasets/projects.csv"
-TAGS_URL = "https://raw.githubusercontent.com/Pranshu-Bahadur/mlops/main/datasets/tags.csv" 
+PROJECTS_URL = "https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/projects.csv"
+TAGS_URL = "https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/tags.csv"
+
