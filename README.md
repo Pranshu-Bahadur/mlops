@@ -1,5 +1,40 @@
 # [Made with ML: MLOPs Course](https://madewithml.com/courses/mlops)
 
+
+- Changing this Repo from Learning MLOPs to a project.
+
+Possible ideas (Very Broad):
+
+Idea 1:
+
+Given a Company retireve: (Let's say its Public)
+
+- Summarize Company and retrieve relevant Data (Example if it's a startup: retireve Crunchbase, tracxn, angellist, ,bloomberg, etc.)
+
+A. Current Sentiment Analysis:
+
+- News Article Summaries, Twitter Trends, Podcasts Transcript Summaries, Relevant GeoSpatial Data?
+
+B. Historical Data Analysis: (Regression)
+
+yahoofinance, kite, etc.
+
+C. Automated Trading based on inference
+
+
+streamlit like api for frontend.
+
+
+ISSUE-1: Google won't let me automate search queries.
+
+ISSUE-2: This feels very expensive. (Try TwitterAPI -> kiteconnect first?)
+
+Idea 2:
+
+GoDaddy Kaggle Competition, which is basically the something right?
+
+Also - this is a side project. 1hr a day max.
+
 ## Virtual Environment:
 
 ```shell
