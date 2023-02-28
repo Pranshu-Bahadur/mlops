@@ -3,6 +3,11 @@
 
 - Changing this Repo from Learning MLOPs to a project.
 
+
+Retreieve Raw Data: 500k tweets per month + Realtime fetch on kiteticker
+
+ELT Pipeline (Clean, Store, Load)
+
 Possible ideas (Very Broad):
 
 Idea 1:
